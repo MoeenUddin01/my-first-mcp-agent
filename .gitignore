@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# IDE and cache
+.vscode/
+.idea/
+.ruff_cache/
+.python-version
+
+# Lock files (optional - keep if you want reproducible builds)
+# uv.lock
+
+# OS files
+.DS_Store
+Thumbs.db
